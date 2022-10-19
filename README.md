@@ -1,1 +1,1 @@
-# hizibizi.github.io
+# hibizibi.gitlab.io
