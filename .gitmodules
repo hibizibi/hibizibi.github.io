@@ -1,0 +1,9 @@
+[submodule "learn"]
+	path = learn
+	url = https://github.com/matcornic/hugo-theme-learn.git
+[submodule "theams/learn"]
+	path = theams/learn
+	url = https://github.com/matcornic/hugo-theme-learn.git
+[submodule "themes/learn"]
+	path = themes/learn
+	url = https://github.com/matcornic/hugo-theme-learn.git
