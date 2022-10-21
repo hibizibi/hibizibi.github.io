@@ -5,9 +5,6 @@ weight = 5
 chapter = true
 pre = "<b>1. </b>"
 +++
-
-### Chapter 1
-
-# Introduction
+### Introduction
 
 Random notes for the work that I do to learn random things related to my job or not a day job.

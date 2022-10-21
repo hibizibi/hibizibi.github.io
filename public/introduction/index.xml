@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hibizibi</title>
-    <link>http://hibizibi.github.io/</link>
-    <description>Recent content on Hibizibi</description>
+    <title>Introduction on Hibizibi</title>
+    <link>http://hibizibi.github.io/introduction/</link>
+    <description>Recent content in Introduction on Hibizibi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Oct 2022 20:32:07 -0700</lastBuildDate><atom:link href="http://hibizibi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Oct 2022 20:32:07 -0700</lastBuildDate><atom:link href="http://hibizibi.github.io/introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TOC</title>
       <link>http://hibizibi.github.io/introduction/table-of-contents/</link>
@@ -22,15 +22,6 @@
       <pubDate>Wed, 19 Oct 2022 20:30:54 -0700</pubDate>
       
       <guid>http://hibizibi.github.io/introduction/first-content/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>First Content</title>
-      <link>http://hibizibi.github.io/basics/first-content/</link>
-      <pubDate>Tue, 18 Oct 2022 15:34:32 -0700</pubDate>
-      
-      <guid>http://hibizibi.github.io/basics/first-content/</guid>
       <description></description>
     </item>
     
